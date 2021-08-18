@@ -1,5 +1,5 @@
-# Three.js Starter
-Courtesy of Bruno Simon of https://threejs-journey.xyz/
+# Webpack Starter
+Fork of [designcourse's threejs-webpack-starter](https://github.com/designcourse/threejs-webpack-starter), which is Courtesy of Bruno Simon of https://threejs-journey.xyz/
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
